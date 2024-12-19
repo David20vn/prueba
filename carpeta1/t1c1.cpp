@@ -3,5 +3,5 @@
 using namespace std;
 
 int main (){
-	cout << "texto 1, carpeta 1";
+	cout << "tecto 1, carpeta 1";
 }
